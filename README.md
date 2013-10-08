@@ -1,7 +1,7 @@
 4 Channels Logic Level Converter
 ================================
-Manufactured by : Geek Ammo
-SKU : GMO-0001
+Manufactured by : Geek Ammo  
+SKU : GMO-0001  
 
 Summary
 -------
@@ -9,7 +9,6 @@ This is a simple bi-directional level converter based on the BSS138 MOSFET follo
 
 Description
 -----------
-Logic level shifting may be required when interfacing legacy devices with newer devices that use a smaller geometry process. For bidirectional bus systems like the I2C-bus, such a level shifter must also be bidirectional, without the need of a direction control signal. The simplest way to solve this problem is by connecting a discrete MOS-FET to each bus line.
+With a single MOS-FET a bi-directional level shifter circuit can be realised to connect devices with different supply voltages of e.g. 5 Volt and 3.3 Volt to one I2C-bus system. The level shifter can also isolate a bus section of powered-down devices from the I2C-bus, allowing the powered part of the I2C-bus to operate in a normal way.  
 
-
-
+The level shifter can also be used in other bus systems or point to point connections for level shifting and/or isolation.
