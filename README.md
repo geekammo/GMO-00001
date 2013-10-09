@@ -1,7 +1,7 @@
 4 Channel Logic Level Converter
 ================================
-Manufactured by : Geek Ammo
-SKU : GMO-0001
+Manufactured by : Geek Ammo  
+SKU : GMO-00001
 
 Summary
 -------
